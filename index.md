@@ -1,9 +1,6 @@
 # Ashley Yu
 
 ## Interests and Hobbies
-### Academic - Robotic/Technology 
- - USACO Silver level
-
 ### Athletics 
  - Squash
    - Rating 2.54
