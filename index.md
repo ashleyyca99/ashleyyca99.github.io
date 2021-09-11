@@ -1,4 +1,4 @@
-# Grace's main page
+# Ashley's main page
 
 ## Interests and Hobbies
 ### Academic - Robotic/Technology
@@ -43,5 +43,5 @@ Upgraded to Silver Group from Bronze Group at USACO (USA Computing Olympiad)
 Second place in cheerleading at an International youth gymnastics competition in Baden-Württemberg, Germany. 2017
 
 ## Funny stuff
-![](lion2.png)
+![line](images/lion2.png)
 
