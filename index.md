@@ -6,27 +6,27 @@
 
 ### Athletics 
  - Squash
-  - Rating 2.54
-  - 12 hours every week
-  - 2 years experience
-  - Club member
+   - Rating 2.54
+   - 12 hours every week
+   - 2 years experience
+   - Club member
  - Soccer
-  - 8 hours every week
+   - 8 hours every week
 
 ### Computing
  - USACO(USA Computer Olympiad) Silver Level
  - Python
-  - 2 years experience
+   - 2 years experience
  - Java
-  - 1 year experience
+   - 1 year experience
  - HTML
-  - 1 year experience
+   - 1 year experience
  - Project
-  - Created a device that holds a touch-screen that is able to be controled remotely
-   - Helps the people with technological difficulties
-    - Especially the elderly
-   - Used CAD(Computer Aided Design)
-   - Used HTML
+   - Created a device that holds a touch-screen that is able to be controled remotely
+     - Helps the people with technological difficulties
+     - Especially the elderly
+    - Used CAD(Computer Aided Design)
+    - Used HTML
    - 
 
 ### Music
