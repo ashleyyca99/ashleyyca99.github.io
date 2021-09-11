@@ -1,4 +1,4 @@
-# About Ashley Yu
+# Ashley Yu
 
 ## Interests and Hobbies
 ### Academic - Robotic/Technology 
