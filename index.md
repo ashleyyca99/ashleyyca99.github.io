@@ -14,7 +14,7 @@
    - 8 hours every week
 
 ### Computing
- - USACO(USA Computer Olympiad) Silver Level
+ - USACO (USA Computer Olympiad) Silver Level
  - Python
    - 2 years experience
  - Java
@@ -25,9 +25,8 @@
    - Created a device that holds a touch-screen that is able to be controled remotely
      - Helps the people with technological difficulties
      - Especially the elderly
-    - Used CAD(Computer Aided Design)
-    - Used HTML
-   - 
+   - Used CAD (Computer Aided Design)
+   - Used HTML
 
 ### Music
  - Piano 
