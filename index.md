@@ -5,23 +5,35 @@
  - USACO Silver level
 
 ### Athletics 
- - Squash rating 2.54
- - Soccer 
+ - Squash
+  - Rating 2.54
+  - 12 hours every week
+  - 2 years experience
+  - Club member
+ - Soccer
+  - 8 hours every week
 
-### Athletics - Squash 
- - Club member
- - 12 hours per week
+### Computing
+ - USACO(USA Computer Olympiad) Silver Level
+ - Python
+  - 2 years experience
+ - Java
+  - 1 year experience
+ - HTML
+  - 1 year experience
+ - Project
+  - Created a device that holds a touch-screen that is able to be controled remotely
+   - Helps the people with technological difficulties
+    - Especially the elderly
+   - Used CAD(Computer Aided Design)
+   - Used HTML
+   - 
 
-### Athletics - Soccer
- - 3 hours per week
-
-### VisualPerformingArts - Jazz
- - School club member
- - 1st place in Hangzhou Yangguang Cheerleading and Jazz competition, China.
-
-### Music - Piano 
- - Private lessons
- - 4 hours per week
+### Music
+ - Piano 
+  - 3 years experience
+ - Drums
+  - 
 
 ### VisualPerformingArts - Painting and Drawing
  - Private lessons
