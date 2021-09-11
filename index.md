@@ -1,13 +1,12 @@
 # Ashley's main page
 
 ## Interests and Hobbies
-### Academic - Robotic/Technology
- - Member of school's robotic club
- - Awards in robotics and USACO competitions
+### Academic - Robotic/Technology 
+ - USACO Silver level
 
-### Athletics - Gymnastics 
- - School club member
- - Second place in cheerleading at an International youth gymnastics competition in Baden-Württemberg, Germany
+### Athletics 
+ - Squash rating 2.54
+ - Soccer 
 
 ### Athletics - Squash 
  - Club member
@@ -33,6 +32,10 @@
 
 ## Achievements
 ### Squash Tournaments
+ - Nick Talor Academy Summer Junior Silver 2nd place
+ - New England Regional Junior Championships 3rd place
+ - Emerson Hospital Squashfit Silver 3rd place
+ - Abacus Finance Boston Junior Grand Prix #6 2nd place
 
 ### Upgraded to Silver Group at USACO 
 Upgraded to Silver Group from Bronze Group at USACO (USA Computing Olympiad)
