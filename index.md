@@ -1,5 +1,7 @@
 # About Ashley Yu
 
+**This is my regulatly updated personal website.**
+
 ## Interests and Hobbies
 ### Athletics 
  - Squash
@@ -29,7 +31,7 @@
  - Piano 
   - 3 years experience
  - Drums
-  - 
+ 
 
 ### VisualPerformingArts - Painting and Drawing
  - Private lessons
@@ -53,6 +55,14 @@ Upgraded to Silver Group from Bronze Group at USACO (USA Computing Olympiad)
 ### Second Place in Cheerleading at an International Youth Gymnastics Competition 
 Second place in cheerleading at an International youth gymnastics competition in Baden-Württemberg, Germany. 2017
 
-## Funny stuff
-![line](images/lion2.png)
+## the Remote Helper
+<more to come>
+ 
+[![the Remote Helper Introduction](http://img.youtube.com/vi/mzehJWZBZOk/0.jpg)](http://www.youtube.com/watch?v=mzehJWZBZOk "the Remote Helper Introduction")
+ 
+[![the Remote Helper Software](http://img.youtube.com/vi/KfCu7RD2oZ8/0.jpg)](http://www.youtube.com/watch?v=KfCu7RD2oZ8 "the Remote Helper Software")
+ 
+[![the Remote Helper Demo](http://img.youtube.com/vi/TBsu0R_I9vI/0.jpg)](http://www.youtube.com/watch?v=TBsu0R_I9vI "the Remote Helper Demo")
+ 
+
 
