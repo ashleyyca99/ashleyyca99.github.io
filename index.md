@@ -40,9 +40,9 @@
 
 ### Music
  - Piano 
-  - 3 years experience
+   - 3 years experience
  - Drums
- - 1 year experience
+   - 1 year experience
  
 
 ### VisualPerformingArts - Painting and Drawing
@@ -63,8 +63,9 @@
  - Abacus Finance Boston Junior Grand Prix #6 2nd place
 ### Basketball
  - Ball Tour Winter League, 2nd place (2017)
-### 
+### Computing
  - USACO (USA Computer Olympiad) Silver Level
+ - International Junior Botball Challenge and won third place with my teammates
  
 
 ## the Remote Helper
