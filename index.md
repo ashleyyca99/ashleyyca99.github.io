@@ -5,7 +5,7 @@
 ## Interests and Hobbies
 ### Athletics 
  - Squash
-   - Rating 2.55
+   - USA Squash Rating 2.55
    - 12 hours every week
    - 2 years experience
    - Club member
@@ -17,6 +17,8 @@
    - Playing Basketball since first grade
  
 ### Computing
+ - Robotics
+   - 2 years experiences
  - Python
    - 2 years experience
  - Java
@@ -27,10 +29,9 @@
    - Created a device that holds a touch-screen that is able to be controled remotely
      - Helps the people with technological difficulties
      - Especially the elderly
+   - Used Raspberry
    - Used CAD (Computer Aided Design)
    - Used HTML
- - Robotics
-   - International Junior Botball Challenge, 3rd place overall (2017)
 
 ### Debate
   - VBI summer camp(2021)
