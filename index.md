@@ -59,9 +59,10 @@ Second place in cheerleading at an International youth gymnastics competition in
 <more to come>
 
  
-[![the Remote Helper Introduction](http://img.youtube.com/vi/mzehJWZBZOk/0.jpg)](http://www.youtube.com/watch?v=mzehJWZBZOk)
+![](http://img.youtube.com/vi/mzehJWZBZOk/0.jpg)
+ (http://www.youtube.com/watch?v=mzehJWZBZOk)
  
-[![the Remote Helper Software](http://img.youtube.com/vi/KfCu7RD2oZ8/0.jpg)](http://www.youtube.com/watch?v=KfCu7RD2oZ8)
+[![](http://img.youtube.com/vi/KfCu7RD2oZ8/0.jpg)](http://www.youtube.com/watch?v=KfCu7RD2oZ8)
  
 [![the Remote Helper Demo](http://img.youtube.com/vi/TBsu0R_I9vI/0.jpg)](http://www.youtube.com/watch?v=TBsu0R_I9vI)
  
