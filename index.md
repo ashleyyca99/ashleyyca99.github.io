@@ -61,8 +61,10 @@
  - New England Regional Junior Championships 3rd place
  - Emerson Hospital Squashfit Silver 3rd place
  - Abacus Finance Boston Junior Grand Prix #6 2nd place
+
 ### Basketball
  - Ball Tour Winter League, 2nd place (2017)
+
 ### Computing
  - USACO (USA Computer Olympiad) Silver Level
  - International Junior Botball Challenge and won third place with my teammates
