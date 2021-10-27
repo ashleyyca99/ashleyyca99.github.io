@@ -74,10 +74,10 @@
 **more to come**
 
  
-[![the Remote Helper Introduction](http://img.youtube.com/vi/mzehJWZBZOk/0.jpg | width=100)](http://www.youtube.com/watch?v=mzehJWZBZOk "the Remote Helper Introduction")
+[![the Remote Helper Introduction](http://img.youtube.com/vi/mzehJWZBZOk/0.jpg)](http://www.youtube.com/watch?v=mzehJWZBZOk "the Remote Helper Introduction")
  
-[![the Remote Helper Software](http://img.youtube.com/vi/KfCu7RD2oZ8/0.jpg | width=100)](http://www.youtube.com/watch?v=KfCu7RD2oZ8 "the Remote Helper Software")
+[![the Remote Helper Software](http://img.youtube.com/vi/KfCu7RD2oZ8/0.jpg)](http://www.youtube.com/watch?v=KfCu7RD2oZ8 "the Remote Helper Software")
  
-[![the Remote Helper Demo](http://img.youtube.com/vi/TBsu0R_I9vI/0.jpg | width=100)](http://www.youtube.com/watch?v=TBsu0R_I9vI "the Remote Helper Demo")
+[![the Remote Helper Demo](http://img.youtube.com/vi/TBsu0R_I9vI/0.jpg)](http://www.youtube.com/watch?v=TBsu0R_I9vI "the Remote Helper Demo")
  
 
