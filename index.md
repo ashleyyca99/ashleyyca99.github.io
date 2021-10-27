@@ -5,15 +5,18 @@
 ## Interests and Hobbies
 ### Athletics 
  - Squash
-   - Rating 2.54
+   - Rating 2.55
    - 12 hours every week
    - 2 years experience
    - Club member
  - Soccer
    - 8 hours every week
-
+   - Playing Soccer since first grade
+   - Co-captain of school JV team
+ - Basketball
+   - Playing Basketball since first grade
+ 
 ### Computing
- - USACO (USA Computer Olympiad) Silver Level
  - Python
    - 2 years experience
  - Java
@@ -26,11 +29,19 @@
      - Especially the elderly
    - Used CAD (Computer Aided Design)
    - Used HTML
+ - Robotics
+   - International Junior Botball Challenge, 3rd place overall (2017)
+
+### Debate
+  - VBI summer camp(2021)
+  - MUN summer camp(2020)
+  - Debate clubs(2019-2021)
 
 ### Music
  - Piano 
   - 3 years experience
  - Drums
+ - 1 year experience
  
 
 ### VisualPerformingArts - Painting and Drawing
@@ -38,22 +49,22 @@
  - 2 hours per week
 
 ### CommunityService - Community service 
- - Participateed in multiple community service events
-
-## Achievements
+ - member of community connection leadership(2021) Help organize community connection events at Fay School
+ - Donating N95 masks to New York Hospitals (2020)
+ - Giving tree (2018-2019)  Buying toys, books, and clothes, and then giving them to the children in need.
+ - MMC (2018) Takes pictures and videos for the school.
+ 
+## Achievement
 ### Squash Tournaments
  - Nick Talor Academy Summer Junior Silver 2nd place
  - New England Regional Junior Championships 3rd place
  - Emerson Hospital Squashfit Silver 3rd place
  - Abacus Finance Boston Junior Grand Prix #6 2nd place
-
-### Upgraded to Silver Group at USACO 
-Upgraded to Silver Group from Bronze Group at USACO (USA Computing Olympiad)
-
-### 6th Place at FIRST Lego League Challenge 
-
-### Second Place in Cheerleading at an International Youth Gymnastics Competition 
-Second place in cheerleading at an International youth gymnastics competition in Baden-Württemberg, Germany. 2017
+### Basketball
+ - Ball Tour Winter League, 2nd place (2017)
+### 
+ - USACO (USA Computer Olympiad) Silver Level
+ 
 
 ## the Remote Helper
 **more to come**
