@@ -28,7 +28,7 @@
  - Project
    - Created a device that holds a touch-screen that is able to be controled remotely
      - Helps the people with technological difficulties
-     - Especially the elderly
+     - Especially the elderly like my grandma
    - Used Raspberry
    - Used CAD (Computer Aided Design)
    - Used HTML
@@ -70,7 +70,7 @@
  - International Junior Botball Challenge and won third place with my teammates
  
 
-## the Remote Helper
+## Smart Device Remote Helper
 **more to come**
 
  
