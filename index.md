@@ -16,7 +16,7 @@
  - Basketball
    - Playing Basketball since first grade
  - Lacross
-   - Playing Lacross at spring semester in 2021
+   - Playing Lacross at spring semester at Fay in 2021
  
 ### Computing
  - Robotics
@@ -24,7 +24,7 @@
  - Python
    - 2 years experience
  - Java
-   - 1 year experience
+   - 1 year experience(Learning at Fay school)
  - HTML
    - 1 year experience
  - Project
@@ -46,7 +46,7 @@
  - Drums
    - 1 year experience
 - Bells
-   - School Bells Program
+   - Bells Program at Fay School
 
 ### VisualPerformingArts - Painting and Drawing
  - Private lessons
@@ -60,16 +60,16 @@
  
 ## Achievement
 ### Squash Tournaments
- - Nick Talor Academy Summer Junior Silver 2nd place
- - New England Regional Junior Championships 3rd place
- - Emerson Hospital Squashfit Silver 3rd place
- - Abacus Finance Boston Junior Grand Prix #6 2nd place
+ - Nick Talor Academy Summer Junior Silver 2nd place, 2021
+ - New England Regional Junior Championships 3rd place, 2021
+ - Emerson Hospital Squashfit Silver 3rd place, 2021
+ - Abacus Finance Boston Junior Grand Prix #6 2nd place, 2021
 
 ### Basketball
  - Ball Tour Winter League, 2nd place (2017)
 
 ### Lacross
- - Best Effort Reward by Lacross school team
+ - Best Effort Reward of Lacross team at Fay School
 
 ### Computing
  - USACO (USA Computer Olympiad) Silver Level
