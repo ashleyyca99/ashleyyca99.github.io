@@ -79,8 +79,18 @@
 ## Smart Device Remote Helper
 **more to come**
 
- 
-[![the Remote Helper Introduction](http://img.youtube.com/vi/mzehJWZBZOk/0.jpg)](http://www.youtube.com/watch?v=mzehJWZBZOk "the Remote Helper Introduction")
+<div style="width:150; display:block-inline">
+  <p>the Remote Helper Introduction</p>
+  <a src="http://www.youtube.com/watch?v=mzehJWZBZOk"><img src="images/RemoteHelperIntroduction.png" width="150"/></a>
+</div>
+<div style="width:150">
+  <p>the Remote Helper Software</p>
+  <a src="http://www.youtube.com/watch?v=KfCu7RD2oZ8"><img src="images/RemoteHelperSoftware.png" width="150"/></a>
+</div>
+<div style="width:150">
+  <p>the Remote Helper Demo</p>
+  <a src="http://www.youtube.com/watch?v=TBsu0R_I9vI"><img src="images/RemoteHelperDemo.png" width="150"/></a>
+</div>
  
 [![the Remote Helper Software](http://img.youtube.com/vi/KfCu7RD2oZ8/0.jpg)](http://www.youtube.com/watch?v=KfCu7RD2oZ8 "the Remote Helper Software")
  
