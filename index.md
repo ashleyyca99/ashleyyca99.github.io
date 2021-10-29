@@ -80,15 +80,15 @@
 **more to come**
 
 <div style="width:150; display:inline-block">
-  <p>the Remote Helper Introduction</p>
+  <p>Remote Helper Introduction</p>
   <a href="http://www.youtube.com/watch?v=mzehJWZBZOk"><img src="images/RemoteHelperIntroduction.png" width="150"/></a>
 </div>
 <div style="width:150; display:inline-block">
-  <p>the Remote Helper Software</p>
+  <p>Remote Helper Software</p>
   <a href="http://www.youtube.com/watch?v=KfCu7RD2oZ8"><img src="images/RemoteHelperSoftware.png" width="150"/></a>
 </div>
 <div style="width:150; display:inline-block">
-  <p>the Remote Helper Demo</p>
+  <p>Remote Helper Demo</p>
   <a href="http://www.youtube.com/watch?v=TBsu0R_I9vI"><img src="images/RemoteHelperDemo.png" width="150"/></a>
 </div>
  
