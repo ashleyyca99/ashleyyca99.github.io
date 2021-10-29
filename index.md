@@ -15,6 +15,8 @@
    - Co-captain of school JV team
  - Basketball
    - Playing Basketball since first grade
+ - Lacross
+   - Playing Lacross at spring semester in 2021
  
 ### Computing
  - Robotics
@@ -43,7 +45,8 @@
    - 3 years experience
  - Drums
    - 1 year experience
- 
+- Bells
+   - School Bells Program
 
 ### VisualPerformingArts - Painting and Drawing
  - Private lessons
@@ -64,6 +67,9 @@
 
 ### Basketball
  - Ball Tour Winter League, 2nd place (2017)
+
+### Lacross
+ - Best Effort Reward by Lacross school team
 
 ### Computing
  - USACO (USA Computer Olympiad) Silver Level
