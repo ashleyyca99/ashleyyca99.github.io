@@ -16,7 +16,7 @@
  - Basketball
    - Playing Basketball since first grade
  - Lacross
-   - Playing Lacross at spring semester at Fay in 2021
+   - Playing Lacross in spring semester at Fay in 2021
  
 ### Computing
  - Robotics
