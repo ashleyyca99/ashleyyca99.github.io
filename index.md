@@ -79,16 +79,16 @@
 ## Smart Device Remote Helper
 **more to come**
 
-<div style="width:150; display:inline-block">
-  <p>Remote Helper Introduction</p>
-  <a href="http://www.youtube.com/watch?v=mzehJWZBZOk"><img src="images/RemoteHelperIntroduction.png" width="150"/></a>
+<div style="display:inline-block">
+  Introduction<br/>
+  <a href="http://www.youtube.com/watch?v=mzehJWZBZOk"><img src="images/RemoteHelperIntroduction.png" width="160"/></a>
 </div>
-<div style="width:150; display:inline-block">
-  <p>Remote Helper Software</p>
-  <a href="http://www.youtube.com/watch?v=KfCu7RD2oZ8"><img src="images/RemoteHelperSoftware.png" width="150"/></a>
+<div style="display:inline-block">
+  Software<br/>
+  <a href="http://www.youtube.com/watch?v=KfCu7RD2oZ8"><img src="images/RemoteHelperSoftware.png" width="160"/></a>
 </div>
-<div style="width:150; display:inline-block">
-  <p>Remote Helper Demo</p>
-  <a href="http://www.youtube.com/watch?v=TBsu0R_I9vI"><img src="images/RemoteHelperDemo.png" width="150"/></a>
+<div style="display:inline-block">
+  Demo<br/>
+  <a href="http://www.youtube.com/watch?v=TBsu0R_I9vI"><img src="images/RemoteHelperDemo.png" width="160"/></a>
 </div>
  
