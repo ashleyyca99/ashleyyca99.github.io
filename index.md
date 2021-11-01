@@ -91,8 +91,9 @@
   Demo<br/>
   <a href="http://www.youtube.com/watch?v=TBsu0R_I9vI"><img src="images/RemoteHelperDemo.png" width="160"/></a>
 </div>
- 
+
+
 ## Squash Video
+<a href="https://clublocker.com/users/381484/home">My home page at USA squash</a><br/>
 **more to come**
 
-<a href="https://clublocker.com/users/381484/home">My home page at USA squash</a>
