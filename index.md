@@ -1,6 +1,6 @@
 # About Ashley Yu
 
-**This is my regulatly updated personal website.**
+**This is my regularly updated personal website.**
 
 ## Interests and Hobbies
 ### Athletics 
