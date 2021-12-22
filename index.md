@@ -5,7 +5,7 @@
 ## Interests and Hobbies
 ### Athletics 
  - Squash
-   - USA Squash Rating 2.55
+   - US Squash Rating 2.76
    - 12 hours every week
    - 2 years experience
    - Club member
@@ -15,8 +15,8 @@
    - Co-captain of school JV team
  - Basketball
    - Playing Basketball since first grade
- - Lacross
-   - Playing Lacross in spring semester at Fay in 2021
+ - Lacrosse
+   - Playing Lacrosse in spring semester at Fay in 2021
  
 ### Computing
  - Robotics
@@ -68,8 +68,8 @@
 ### Basketball
  - Ball Tour Winter League, 2nd place (2017)
 
-### Lacross
- - Best Effort Reward of Lacross team at Fay School
+### Lacrosse
+ - Best Effort Reward of Lacrosse team at Fay School
 
 ### Computing
  - USACO (USA Computer Olympiad) Silver Level
