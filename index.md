@@ -5,7 +5,7 @@
 ## Interests and Hobbies
 ### Athletics 
  - Squash
-   - US Squash Rating 2.76
+   - US Squash Rating 2.8
    - 12 hours every week
    - 2 years experience
    - Club member
