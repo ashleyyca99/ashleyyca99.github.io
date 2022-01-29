@@ -80,7 +80,7 @@
 **more to come**
 
 <div style="display:inline-block">
-  Introduction<br/>
+  Help Grandma<br/>
   <a href="http://www.youtube.com/watch?v=MgHjVX39WHY"><img src="images/RemoteHelperHelpGrandma.jpeg" width="160"/></a>
 </div>
 <div style="display:inline-block">
@@ -101,7 +101,7 @@
 ## Squash
 <a href="https://clublocker.com/users/381484/home">My home page at USA squash</a><br/>
 <div style="display:inline-block">
-  Demo<br/>
+  <br/>
   <img src="images/AshleySquashRating.png" width="160"/>
 </div>
 <div style="display:inline-block">
