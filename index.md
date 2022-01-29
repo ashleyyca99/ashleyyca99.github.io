@@ -102,11 +102,11 @@
 <a href="https://clublocker.com/users/381484/home">My home page at USA squash</a><br/>
 <div style="display:inline-block">
   <br/>
-  <img src="images/AshleySquashRating.png" width="160"/>
+  <img src="images/AshleySquashRating.png" width="300"/>
 </div>
 <div style="display:inline-block">
   <br/>
-  <a href="http://www.youtube.com/watch?v=GP0QYPf28K4"><img src="images/AshleySquash.jpeg" width="160"/></a>
+  <a href="http://www.youtube.com/watch?v=GP0QYPf28K4"><img src="images/AshleySquash.jpeg" width="300"/></a>
 </div>
 
 **more to come...**
